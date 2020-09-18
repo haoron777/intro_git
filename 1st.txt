@@ -6,3 +6,5 @@ GIT‚ð‚Í‚¶‚ß‚æ‚¤
 
 get remove
 
+git status
+
